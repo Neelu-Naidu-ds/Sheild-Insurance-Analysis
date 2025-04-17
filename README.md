@@ -29,6 +29,8 @@ If successful:
 - It will demonstrate the **feasibility of long-term collaboration**.
 - Lay the foundation for a **scalable and sustainable partnership**.
 
+##  [**Sheild Insurance Dashboard link**](https://app.powerbi.com/view?r=eyJrIjoiMWM5ODNiMTYtY2Q3OS00ZWVkLTg1MGMtMTFjY2U1ZTQ3ZjhiIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+
 ## 📊 **Dashboard Overview**
 
 A **Four-page Power BI dashboard** was created to provide deep insights:
